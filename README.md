@@ -1,12 +1,11 @@
-# Obsidian Template Theme
+# Ilaris Theme für Obsidian
 
-Press `Use this template` to use this template for your Obsidian theme!
+## Was ist Obsidian
+Obsidian ist ein Markdown-Editor mit einigen Features zum Verwalten und Verlinken von einzelnen Notizen. Es ist durch Plugins um viele weitere Features wie zB DiceRoller, Interaktive Karten zu einem komfortablen Kampagnen-Manager für Fantasyspiele erweiterbar. Kleine Häppchen oder lange Texte können wie wir es von Wikis kennen mit einander verknüpfen. Wer Markdown bereits kennt findet sich schnell zurecht und die meisten Funktionen sind Intuitiv durch Drag and Drop oder einfacher Textbefehle verfügbar. Meinem ersten Eindruck nach, das perfekte Tool zum Vorbereiten und Managen von Kampagnen.
 
-## Get started
-- [Guides for Obsidian Theme Designers](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/for+Theme+Designers)
-- [Theme Design Utilities Plugin](https://github.com/chrisgrieser/obsidian-theme-design-utilities)
-- [Example vault with a huge collection of test notes](https://github.com/obsidian-community/theme-dev-vault)
+## Das Theme
+Dies Repository stellt die `ilaris.css` zur verfügung, die im jeweiligen Projektordner in `.obsidian/themes/` abgelegt werden kann. Bisher sind es nur eine Handvoll anpassungen um auf die schnelle, etwas gemütlicheres fantasy feeling aufkommen zu lassen. Wenn ich weitere Dinge anpasse werde ich sie ggf. hier hochladen.
 
-## Theme Ready?
-- Replace the `promo_screenshot.png` with a screenshot of your theme.
-- [How to add your theme to the community theme store](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/Guides/How+to+add+your+theme+to+the+community+theme+store)
+## Vorschau
+
+![screenshot.png](screenshot.png)

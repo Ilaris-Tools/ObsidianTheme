@@ -268,12 +268,24 @@ del {} /*Reading View*/
 /*--Headers/Headings--*/
 h1 {
     font-family: 'Aniron', serif;
+    color: var(--dark-red);
 } /*Reading Mode*/
-h2 {} /*Reading Mode*/
-h3 {} /*Reading Mode*/
-h4 {} /*Reading Mode*/
-h5 {} /*Reading Mode*/
-h6 {} /*Reading Mode*/
+h2 {
+    font-family: 'Aniron', serif;
+    color: var(--dark-red);} /*Reading Mode*/
+h3 {
+    font-family: 'Cinzel', serif;
+    color: var(--dark-red);} /*Reading Mode*/
+h4 {
+    font-family: 'Cinzel', serif;
+    color: var(--dark-red);} /*Reading Mode*/
+h5 {
+    font-family: 'Cinzel', serif;
+    color: var(--dark-red);} /*Reading Mode*/
+h6 {
+    font-family: 'Cinzel', serif;
+    color: var(--dark-red);
+} /*Reading Mode*/
 .cm-header-1 {
     font-family: 'Aniron', serif;
 } /*Source Mode*/
@@ -299,12 +311,16 @@ h6 {} /*Reading Mode*/
 
 
 /*--Horizontal Line--*/
-hr {} /*Reading Mode*/
-.hr.cm-line {} /*Source Mode*/
-.HyperMD-hr-bg {} /*Source Mode*/
+hr {
+    color: var(--dark-red);} /*Reading Mode*/
+.hr.cm-line {
+    color: var(--dark-red);} /*Source Mode*/
+.HyperMD-hr-bg {
+    color: var(--dark-red);} /*Source Mode*/
 
 /*HR Line Text*/
-.cm-s-obsidian pre.HyperMD-hr {} /*Source Mode*/
+.cm-s-obsidian pre.HyperMD-hr {
+    color: var(--dark-red);} /*Source Mode*/
 
 
 
@@ -421,7 +437,10 @@ table td {} /*Reading Mode*/
 table tr {} /*Reading Mode*/
 .cm-s-obsidian .HyperMD-table-row {} /*Source Mode*/
 
-
+.t-c table {
+    margin-left: auto;
+    margin-right: auto
+}
 
 
 /*--Tags--*/
